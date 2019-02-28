@@ -1,0 +1,46 @@
+{
+  "editor.fontSize": 13,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+
+  "editor.rulers": [80, 120],
+
+  "prettier.arrowParens": "always",
+
+  "files.autoSave": "onFocusChange",
+  "breadcrumbs.enabled": true,
+
+  "todohighlight.keywords": [
+    "DEBUG",
+    "REVIEW",
+    "HACK",
+    {
+      "text": "TODO:",
+      "color": "#bbf",
+      "border": "none",
+      "backgroundColor": "#111"
+    }
+  ],
+  "todohighlight.defaultStyle": {
+    "color": "#bbb",
+    "backgroundColor": "#111",
+    "overviewRulerColor": "#222",
+    "cursor": "pointer",
+    "border": "none",
+    "isWholeLine": false
+  },
+
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "editor.minimap.renderCharacters": true,
+  "editor.minimap.enabled": true,
+  "editor.minimap.maxColumn": 35,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "cSpell.language": "pl",
+  "liveServer.settings.donotVerifyTags": true
+}
