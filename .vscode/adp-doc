@@ -1,0 +1,8 @@
+{
+  "restructuredtext.confPath": "${workspaceFolder}\\.doc",
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#dddddd",
+    "statusBar.border": "#777777",
+    "statusBar.foreground": "#000000"
+  }
+}
