@@ -1,6 +1,13 @@
 # GIT snippets
 
-## save credentials
+## credentials
+
+### save
 ```
-git config credential.helper store
+$ git config credential.helper store
+```
+
+### remove
+```
+$ git config --unset credential.helper
 ```
